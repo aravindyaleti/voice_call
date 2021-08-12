@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "800305384649",
+    "firebase_url": "https://home-care-4a1a9.firebaseio.com",
+    "project_id": "home-care-4a1a9",
+    "storage_bucket": "home-care-4a1a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800305384649:android:01394acfe35730ef80d118",
+        "android_client_info": {
+          "package_name": "com.diatus.voice_call"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800305384649-1inse08htf3ehuqmtjuavfjejc85u7nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuziAazz6gTMbQbFNW5oXkk5p_kQtf5Zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800305384649-1inse08htf3ehuqmtjuavfjejc85u7nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
